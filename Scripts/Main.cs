@@ -53,6 +53,8 @@ public static class GuessHudReplacePatch{
         List<Transform> buttons = new List<Transform>();
         Transform selectedButton = null;
 
+        MeetingHud.Instance.playerStates.ToList().ForEach(x => x.gameObject.SetActive(false));
+
         for (int j = 0; j < 3; j++){
             Transform buttonParent = (new GameObject()).transform;
             buttonParent.SetParent(container);
