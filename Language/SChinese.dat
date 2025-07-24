@@ -1,0 +1,5 @@
+"guesserHud.text0" : "<color=#ff1919ff>伪装者</color>"
+"guesserHud.text1" : "<color=#737373ff>中立阵营</color>"
+"guesserHud.text2" : "<color=#8cffffff>船员</color>"
+
+"config.client.EnableGuessHudPatch" : "覆写赌怪职业选择界面"

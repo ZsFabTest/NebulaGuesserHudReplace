@@ -1,0 +1,10 @@
+{
+	"Id" : "GuesserHudReplace",
+	"Name" : "抄抄你的",
+	"Author" : "凛",
+	"Description" : "SuperNewRole的赌怪界面很好，现在是我的了。",
+	"Version" : "11.4.514",
+	"Build" : 0,
+	"Dependency" : [
+	]
+}

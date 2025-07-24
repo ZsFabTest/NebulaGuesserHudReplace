@@ -1,0 +1,5 @@
+"guesserHud.text0" : "<color=#ff1919ff>Impostor</color>"
+"guesserHud.text1" : "<color=#737373ff>Neutral</color>"
+"guesserHud.text2" : "<color=#8cffffff>Crewmate</color>"
+
+"config.client.EnableGuessHudPatch" : "Enable Guesser Hud Patch"
